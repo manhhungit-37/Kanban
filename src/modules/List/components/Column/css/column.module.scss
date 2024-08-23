@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  flex: 1 1 0;
+}
+
+.title {
+  padding: 8px;
+}
+
+.taskWrapper {
+  flex-grow: 1;
+}
+
+.taskList {
+  padding: 8px;
+  height: 100%;
+}

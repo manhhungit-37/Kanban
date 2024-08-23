@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  padding: 8px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.handle {
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  margin-right: 8px;
+  border-radius: 4px;
+}
